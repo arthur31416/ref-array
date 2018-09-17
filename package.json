@@ -19,7 +19,7 @@
   "dependencies": {
     "array-index": "1",
     "debug": "2",
-    "ref": "1"
+    "ref": "git+ssh://git@github.com/arthur31416/ref.git"
   },
   "devDependencies": {
     "bindings": "~1.3.0",
